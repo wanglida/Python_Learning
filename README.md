@@ -14,4 +14,4 @@ Learn about Python and pracitse the basic grammar.
  - TkinterGUI.py  类的应用
  - list.py  列表、元组、字典的学习
 
-### Only for learning and testing
+### Only for learning and testing.
