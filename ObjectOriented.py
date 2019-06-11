@@ -2,6 +2,7 @@ class Fruit:
     '水果类'
     weight=0
     price=0
+    # 以下是构造函数
     def __init__(self,name,weight,price):
         self.name=name
         self.weight=weight
