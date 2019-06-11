@@ -1,4 +1,4 @@
-print('Hello world! What\'s your name?')  #Hello World
+print('Hello world! What\'s your name?')  # Hello World，并测试Python是否安装成功
 print("双引号引用中文.What's up?")  # 中文
 print('''这是三引号下的字符串
 可以作为段落，\
