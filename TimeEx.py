@@ -13,3 +13,4 @@ print(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()))  # 格式2000-01-01 
 print(time.strftime("%Y %a %b %d %H:%M:%S", time.localtime()))  # 格式2000 Sat Mar 11 11:11:11
 print(time.time())  #输出时间戳
 
+
