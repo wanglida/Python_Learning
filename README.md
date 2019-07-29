@@ -1,6 +1,6 @@
 ## PythonLearning
-Learn about Python and pracitse the basic grammar.<br/>
-学习Python语言基础，简单编程并测试各个功能。
+Learn about Python language and pracitse the basic grammar.<br/>
+学习Python语言基础，简单编程并测试各个功能。代码全部通过，可供学习参考。
 
 ### Instructions of files
  - helloworld.py  测试Python安装及环境配置是否成功，变量、控制结构、循环结构，定义函数、调用函数；
