@@ -1,7 +1,7 @@
-## PythonLearning 快速上手的Python入门教程
+## Python Learning 快速上手的Python入门教程
 
 Learn about Python language swiftly and pracitse the basic grammar.<br/>
-快速学习Python语言基础，简单编程并测试各个功能。代码全部通过，可供学习参考。
+快速学习Python语言基础，简单编程并测试各个功能。代码全部通过，可供学习、参考和使用。
 
 ### Instructions of files 文件说明
  - helloworld.py  测试Python安装及环境配置是否成功，变量、控制结构、循环结构，定义函数、调用函数；
