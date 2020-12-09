@@ -5,7 +5,7 @@ Learn about Python language swiftly and pracitse the basic grammar.<br/>
 
 ### Instructions of files 文件说明
  - helloworld.py  测试Python安装及环境配置是否成功，变量、控制结构、循环结构，定义函数、调用函数；
- - 21PythonGUI.py  界面测试，制作Buttons
+ - PythonGUI.py  界面测试，制作Buttons
  - ExceptionAndError.py  异常与抛出异常测试
  - FileIO.py  Python输入输出文件
  - Module.py  调用模块测试
